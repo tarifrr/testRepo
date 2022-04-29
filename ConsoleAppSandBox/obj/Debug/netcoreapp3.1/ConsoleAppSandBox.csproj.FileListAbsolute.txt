@@ -1,0 +1,13 @@
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/ConsoleAppSandBox.deps.json
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/ConsoleAppSandBox.runtimeconfig.json
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/ConsoleAppSandBox.runtimeconfig.dev.json
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/ConsoleAppSandBox.dll
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/ConsoleAppSandBox.pdb
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.csproj.AssemblyReference.cache
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.AssemblyInfoInputs.cache
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.AssemblyInfo.cs
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.csproj.CoreCompileInputs.cache
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.dll
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.pdb
+/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/obj/Debug/netcoreapp3.1/ConsoleAppSandBox.genruntimeconfig.cache

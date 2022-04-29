@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKL+hGFH6HGVjVGnvtOy0xbZkN5nQ6u5QqCWnQQXkxX83p/VOxg4eKK0uGNeB+3+VKqrAKONa9bY4rJHaxHd7w==",
+  "success": true,
+  "projectFilePath": "/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/ConsoleAppSandBox.csproj",
+  "expectedPackageFiles": [
+    "/Users/trahman/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/trahman/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
