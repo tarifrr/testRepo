@@ -1,4 +1,0 @@
-/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/publish/ConsoleAppSandBox.dll
-/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/publish/ConsoleAppSandBox.deps.json
-/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/publish/ConsoleAppSandBox.runtimeconfig.json
-/Users/trahman/Documents/codql-scan/CodeScanningSandBox/ConsoleAppSandBox/bin/Debug/netcoreapp3.1/publish/ConsoleAppSandBox.pdb
